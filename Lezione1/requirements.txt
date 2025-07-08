@@ -1,0 +1,6 @@
+flask
+pdfplumber
+sqlalchemy
+pandas
+pdfkit
+schedule
